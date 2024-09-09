@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7889b03-514b-43c9-b255-873b127b0163" name="Changes" comment="push stater project.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array.kt" afterDir="false" />
-    </list>
+    <list default="true" id="b7889b03-514b-43c9-b255-873b127b0163" name="Changes" comment="add Array.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,11 +65,26 @@
       <option name="project" value="LOCAL" />
       <updated>1725871350005</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Array.kt">
+      <created>1725872259863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725872259863</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Array.kt">
+      <created>1725872333024</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725872333024</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push stater project." />
-    <option name="LAST_COMMIT_MESSAGE" value="push stater project." />
+    <MESSAGE value="add Array.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Array.kt" />
   </component>
 </project>
