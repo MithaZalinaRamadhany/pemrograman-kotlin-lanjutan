@@ -8,9 +8,9 @@ fun main(args: Array<String>) {
     val b = readLine()!!.toDouble()
     println("Choose one of the following operations:")
     println("1 - addition")
-    println("1 - subtraction")
-    println("1 - multiplication")
-    println("1 - division")
+    println("2 - subtraction")
+    println("3 - multiplication")
+    println("4 - division")
     val choice = readLine()!!.toInt()
     var result = 0.0
     when (choice) {
