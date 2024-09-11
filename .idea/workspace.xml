@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7889b03-514b-43c9-b255-873b127b0163" name="Changes" comment="push stater project.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorWhen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ForLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ForLoopTabelPerkalian.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,21 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.KalkulatorWhenKt">
+  <component name="RunManager" selected="Kotlin.ForLoopTabelPerkalianKt">
+    <configuration name="ForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopKt" />
+      <module name="PemrogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoopTabelPerkalianKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopTabelPerkalianKt" />
+      <module name="PemrogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KalkulatorPercabanganKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KalkulatorPercabanganKt" />
       <module name="PemrogramanKotlinLanjutan" />
@@ -57,20 +71,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Percabangan1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Percabangan1Kt" />
-      <module name="PemrogramanKotlinLanjutan" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Percabangan2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Percabangan2Kt" />
-      <module name="PemrogramanKotlinLanjutan" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WhenKt" />
       <module name="PemrogramanKotlinLanjutan" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ForLoopTabelPerkalianKt" />
+        <item itemvalue="Kotlin.ForLoopKt" />
         <item itemvalue="Kotlin.KalkulatorWhenKt" />
         <item itemvalue="Kotlin.WhenKt" />
         <item itemvalue="Kotlin.KalkulatorPercabanganKt" />
-        <item itemvalue="Kotlin.Percabangan2Kt" />
-        <item itemvalue="Kotlin.Percabangan1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726021206638</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="push stater project.">
+      <created>1726022281704</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726022281704</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
