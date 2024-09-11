@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7889b03-514b-43c9-b255-873b127b0163" name="Changes" comment="add Array.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorPercabangan.kt" afterDir="false" />
+    <list default="true" id="b7889b03-514b-43c9-b255-873b127b0163" name="Changes" comment="push stater project.">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorWhen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -39,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.KalkulatorPercabanganKt">
+  <component name="RunManager" selected="Kotlin.KalkulatorWhenKt">
     <configuration name="KalkulatorPercabanganKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KalkulatorPercabanganKt" />
       <module name="PemrogramanKotlinLanjutan" />
@@ -47,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapKt" />
+    <configuration name="KalkulatorWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KalkulatorWhenKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RangesKt" />
+    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhenKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KalkulatorWhenKt" />
+        <item itemvalue="Kotlin.WhenKt" />
         <item itemvalue="Kotlin.KalkulatorPercabanganKt" />
         <item itemvalue="Kotlin.Percabangan2Kt" />
         <item itemvalue="Kotlin.Percabangan1Kt" />
-        <item itemvalue="Kotlin.RangesKt" />
-        <item itemvalue="Kotlin.MapKt" />
       </list>
     </recent_temporary>
   </component>
@@ -185,12 +188,19 @@
       <option name="project" value="LOCAL" />
       <updated>1726020453120</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="push stater project.">
+      <created>1726021206638</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1726021206638</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="push stater project." />
     <MESSAGE value="add Array.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Array.kt" />
+    <MESSAGE value="push stater project." />
+    <option name="LAST_COMMIT_MESSAGE" value="push stater project." />
   </component>
 </project>
