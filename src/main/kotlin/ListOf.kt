@@ -7,7 +7,7 @@ fun main(args: Array<String>) {
     println("Fourth Element : ${numbers[3]}")
     println("Index of Element \\\"two\\\" ${numbers.indexOf("two")}")
 
-    //List elements (including nulls) can duplicate
+    //Elemen daftar (termasuk null) dapat diduplikasi
     val bob = Person("Bob", 31)
     val people = listOf<Person>(Person("Adam", 20), bob, bob)
     val people2 = listOf<Person>(Person("Adam", 20), Person("Bob", 31), bob)

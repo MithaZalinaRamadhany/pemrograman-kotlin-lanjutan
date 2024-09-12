@@ -1,7 +1,7 @@
 //MITHA ZALINA RAMADHANY
 //RPL 5A
 fun main(args: Array<String>) {
-    //Array lists (mutable) bisa diubah
+    //Daftar array (bisa diubah) dapat diubah
     /*
     Method:
     clear(), contains(), size, get() or [], add() or +=, remove() or -=,
