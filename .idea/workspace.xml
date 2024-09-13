@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7889b03-514b-43c9-b255-873b127b0163" name="Changes" comment="push stater project.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenangananEksepsi.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/NullDiperbolehkan.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/NullDiperbolehkan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiMath.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,21 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.PenangananEksepsiKt">
+  <component name="RunManager" selected="Kotlin.FungsiMathLuasKelilingLingkaranKt">
+    <configuration name="FungsiMathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsiMathKt" />
+      <module name="PemrogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FungsiMathLuasKelilingLingkaranKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsiMathLuasKelilingLingkaranKt" />
+      <module name="PemrogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NullDiperbolehkanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NullDiperbolehkanKt" />
       <module name="PemrogramanKotlinLanjutan" />
@@ -57,20 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullPemeriksaanKondisiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NullPemeriksaanKondisiKt" />
-      <module name="PemrogramanKotlinLanjutan" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NullSafeCallsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NullSafeCallsKt" />
-      <module name="PemrogramanKotlinLanjutan" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PenangananEksepsiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PenangananEksepsiKt" />
       <module name="PemrogramanKotlinLanjutan" />
@@ -80,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FungsiMathLuasKelilingLingkaranKt" />
+        <item itemvalue="Kotlin.FungsiMathKt" />
         <item itemvalue="Kotlin.PenangananEksepsiKt" />
         <item itemvalue="Kotlin.NullDiperbolehkanKt" />
         <item itemvalue="Kotlin.NullEvilsOperatorKt" />
-        <item itemvalue="Kotlin.NullSafeCallsKt" />
-        <item itemvalue="Kotlin.NullPemeriksaanKondisiKt" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726248954876</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="push stater project.">
+      <created>1726249497796</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1726249497796</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
