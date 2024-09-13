@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7889b03-514b-43c9-b255-873b127b0163" name="Changes" comment="push stater project." />
+    <list default="true" id="b7889b03-514b-43c9-b255-873b127b0163" name="Changes" comment="push stater project.">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NullOperator.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,16 +41,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.NullDiperbolehkanKt">
+  <component name="RunManager" selected="Kotlin.NullOperatorKt">
     <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
-      <module name="PemrogramanKotlinLanjutan" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BreakdanContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakdanContinueKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,6 +63,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NullOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NullOperatorKt" />
+      <module name="PemrogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReturnFor_LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReturnFor_LoopKt" />
       <module name="PemrogramanKotlinLanjutan" />
@@ -77,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NullOperatorKt" />
         <item itemvalue="Kotlin.NullDiperbolehkanKt" />
         <item itemvalue="Kotlin.Array2DimensiKt" />
         <item itemvalue="Kotlin.BreakdanContinueLabelKt" />
         <item itemvalue="Kotlin.ReturnFor_LoopKt" />
-        <item itemvalue="Kotlin.BreakdanContinueKt" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726123911461</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="push stater project.">
+      <created>1726247560549</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1726247560549</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
