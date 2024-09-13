@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7889b03-514b-43c9-b255-873b127b0163" name="Changes" comment="push stater project.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NullOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NullPemeriksaanKondisi.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,16 +41,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.NullOperatorKt">
+  <component name="RunManager" selected="Kotlin.NullSafeCallsKt">
     <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
-      <module name="PemrogramanKotlinLanjutan" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BreakdanContinueLabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakdanContinueLabelKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,8 +63,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnFor_LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReturnFor_LoopKt" />
+    <configuration name="NullPemeriksaanKondisiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NullPemeriksaanKondisiKt" />
+      <module name="PemrogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NullSafeCallsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NullSafeCallsKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NullSafeCallsKt" />
+        <item itemvalue="Kotlin.NullPemeriksaanKondisiKt" />
         <item itemvalue="Kotlin.NullOperatorKt" />
         <item itemvalue="Kotlin.NullDiperbolehkanKt" />
         <item itemvalue="Kotlin.Array2DimensiKt" />
-        <item itemvalue="Kotlin.BreakdanContinueLabelKt" />
-        <item itemvalue="Kotlin.ReturnFor_LoopKt" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726247560549</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="push stater project.">
+      <created>1726247972374</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1726247972374</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
